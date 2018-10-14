@@ -1,6 +1,3 @@
-// ADI SOYADI  :   OSMAN DURDAG
-//OGRENCI NO	:	259164
-
 #include <iostream>
 
 using namespace std;
