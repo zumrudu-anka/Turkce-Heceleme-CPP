@@ -1,4 +1,4 @@
-# Türkçe Heceleme Programı (C++)
+# Türkçe Heceleme Programı(C++)
 
 Türkçe cümle veya kelimeleri hecelerine ayıran C++ diliyle yazılmış program.
 
