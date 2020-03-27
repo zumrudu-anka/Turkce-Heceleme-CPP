@@ -1,4 +1,4 @@
-# Türkçe Heceleme Programı (C++)
+# Türkçe Heceleme C++
 
 ## Türkçe Heceleme Kuralları
 <p>&nbsp&nbsp&nbsp&nbspTürkçede kelime içinde iki ünlü arasındaki ünsüz, kendinden sonraki ünlüyle hece kurar: a-ra-ba, bi-çi-mi-ne, in-sa-nın, ka-ra-ca vb.</p>
