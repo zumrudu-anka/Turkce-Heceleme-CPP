@@ -1,6 +1,6 @@
 # Türkçe Heceleme Programı (C++)
 
-> Girilen cümle veya kelimeleri hecelerine ayıran C++ diliyle yazılmış program.
+Girilen cümle veya kelimeleri hecelerine ayıran C++ diliyle yazılmış program.
 
 ## Türkçe Heceleme Kuralları
 
