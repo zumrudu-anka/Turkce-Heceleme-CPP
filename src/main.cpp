@@ -1,5 +1,4 @@
-// Created By
-// Osman DURDAĞ
+// Copyright 2020, Osman DURDAĞ, Some Rights Reserved
 // osmandurdag@hotmail.com
 
 #include "../include/sentence.h"
@@ -26,6 +25,6 @@ int main(int argc, char** argv){
     }
 
     wcout<<endl<<L"Teşekkürler."<<endl;
-    
+    wcout<<endl<<L"© 2020, Osman DURDAĞ, Some Rights Reserved"<<endl;
     return 0;
 }
